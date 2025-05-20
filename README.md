@@ -12,5 +12,5 @@ Recommended Struture and Order
 
    PIZZA_SALES_HOME: https://github.com/priyanivyas/PIZZA_SALES_DASHBOARD/blob/main/PIZZA_SALES_HOME.PNG
 
-   PIZZA_SALES_BEST_WORST_SELLERS:
+   PIZZA_SALES_BEST_WORST_SELLERS: https://github.com/priyanivyas/PIZZA_SALES_DASHBOARD/blob/main/PIZZA_SALES_BEST_WORST_SELLERS.PNG
    
