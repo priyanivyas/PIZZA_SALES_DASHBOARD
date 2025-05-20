@@ -10,4 +10,7 @@ Recommended Struture and Order
 
    3. Example
 
-   PIZZA_SALES_HOME: 
+   PIZZA_SALES_HOME: https://github.com/priyanivyas/PIZZA_SALES_DASHBOARD/blob/main/PIZZA_SALES_HOME.PNG
+
+   PIZZA_SALES_BEST_WORST_SELLERS:
+   
